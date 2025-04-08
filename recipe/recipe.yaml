@@ -1,5 +1,5 @@
 context:
-  version: "0.4.2"
+  version: "0.4.3"
 
 package:
   name: openapi-llm
@@ -7,7 +7,7 @@ package:
 
 source:
   - url: https://pypi.org/packages/source/o/openapi-llm/openapi_llm-${{ version }}.tar.gz
-    sha256: 68e33c59aaa0c4b99d4e1156be2f72b7c4dbe4a21180e3cf4294cb23c2dbcb51
+    sha256: b95639da95603531180b4af195e4b997572635b5fe1c8bb909292ec4422d3cfa
 
 build:
   number: 0
